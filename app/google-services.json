@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "939773292406",
+    "firebase_url": "https://fir-demo-84729.firebaseio.com",
+    "project_id": "fir-demo-84729",
+    "storage_bucket": "fir-demo-84729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939773292406:android:f267d3fadab74ea4",
+        "android_client_info": {
+          "package_name": "com.byteshaft.chatwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939773292406-0e0dsefcv5hiu24lsk41njenklkq6tb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC35URB4e-zToaXKoO8WC91_KElel7mQZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
